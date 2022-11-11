@@ -1,7 +1,7 @@
-# Projeto-Site-MulheresEmTech
-Site elaborado em grupo para o 1º módulo do curso técnico de Desenvolvimento de Sistemas da ETEC com o tema 
-baseado nas ODS (Objetivo de Desenvolvimento Sustentável) 4 e 5 da ONU (Organização das Nações Unidas)
-com o apoio da escola Etec SP @camargobyte
+#Projeto-Site-MulheresEmTech
+Site elaborado em grupo para o 1º módulo do curso tecnico de Desenvolvimento de Sistemas da ETEC com o tema 
+baseado nas ODS (Objetivo de Desenvolvimento Sustentavel) 4 e 5 da ONU (Organizacao das Nacoes Unidas)
+com o apoio da escola Etec SP camargobyte
 
 Fontes de pesquisa para o conteúdo:
 https://www.ecycle.com.br/ods-5/
