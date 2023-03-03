@@ -1,7 +1,16 @@
-#Projeto-Site-MulheresEmTech
+<div align="center">
+<h1> MulheresEmTech - Educação e Igualdade. </h1>
+<div>
+
+> Status do Projeto: :heavy_check_mark: :warning: Em desenvolvimento
+## Descrição do projeto 
+
+<p align="justify">
 Site elaborado em grupo para o 1º módulo do curso tecnico de Desenvolvimento de Sistemas da ETEC com o tema 
 baseado nas ODS (Objetivo de Desenvolvimento Sustentavel) 4 e 5 da ONU (Organizacao das Nacoes Unidas)
-com o apoio da escola Etec SP camargobyte
+com o apoio da escola Etec SP.
+
+</p>
 
 Fontes de pesquisa para o conteúdo:
 https://www.ecycle.com.br/ods-5/
