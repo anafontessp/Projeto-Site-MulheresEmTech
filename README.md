@@ -1,6 +1,6 @@
 <div align="center">
 <h1> MulheresEmTech - Educação e Igualdade. </h1>
-<div>
+</div>
 
 > Status do Projeto: :heavy_check_mark: :warning: Em desenvolvimento
 ## Descrição do projeto 
@@ -11,6 +11,8 @@ baseado nas ODS (Objetivo de Desenvolvimento Sustentavel) 4 e 5 da ONU (Organiza
 com o apoio da escola Etec SP.
 
 </p>
+
+<p align="left">
 
 Fontes de pesquisa para o conteúdo:
 https://www.ecycle.com.br/ods-5/
@@ -36,3 +38,5 @@ Sugestão de layout:
 https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_article2
 
 Username Git Hub: anafontessp, biabia2, jessialeixo, paulasouza2021
+
+</p>
